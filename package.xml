@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>antenna_tracker</name>
+  <version>0.0.0</version>
+  <description>The antenna_tracker package</description>
+
+  <maintainer email="jeremie.bourque@usherbrooke.ca">Jeremie Bourque</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>python-geographiclib</depend>
+  <depend>message_generation</depend>
+  <depend>message_runtime</depend>
+  
+  <export>
+
+  </export>
+</package>
