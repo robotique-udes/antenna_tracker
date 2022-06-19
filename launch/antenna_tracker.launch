@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="antenna_tracker" type="antenna_tracker_node.py" name="antenna_tracker" output="screen">
+        <param name="latitude" value="45.2961408"/>
+        <param name="longitude" value="-71.9633125"/>
+    </node>
+</launch>
